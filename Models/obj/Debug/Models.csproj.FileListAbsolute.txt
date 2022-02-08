@@ -1,0 +1,11 @@
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\Models.dll.config
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\Models.dll
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\Models.pdb
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\EntityFramework.dll
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\EntityFramework.xml
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\obj\Debug\Models.dll
+D:\.Fresher_FPT\BackEnd\ASP.NET MVC\ShopOnline\Models\obj\Debug\Models.pdb
